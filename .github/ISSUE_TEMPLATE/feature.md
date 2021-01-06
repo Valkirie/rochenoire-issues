@@ -1,8 +1,10 @@
 ---
-name: 🚀 Feature
-about: Ask for a well defined and described Feature for CMaNGOS.
-labels: "Type: Feature Request"
-title: 🚀 [Feature Request] 
+name: "\U0001F680 Feature"
+about: Ask for a well defined and described Feature for Rochenoire.
+title: "\U0001F680 [Feature Request]"
+labels: ''
+assignees: ''
+
 ---
 
 ## 🚀 Feature
@@ -13,4 +15,4 @@ title: 🚀 [Feature Request]
 <!-- Specify more details of the Feature with each Picture. -->
 
 ### Benefits & Purpose
-<!-- Specify why this feature should be added and what benefits it holds to CMaNGOS. -->
+<!-- Specify why this feature should be added and what benefits it holds to Rochenoire. -->
