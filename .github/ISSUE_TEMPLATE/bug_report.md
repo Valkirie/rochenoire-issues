@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 ## 🐛 Bugreport
-<!-- Describe your issue in detail. Include screenshots if needed. Give us as much information as possible. -->
+<!-- Describe your issue in detail, set labels. Include screenshots if needed. Give us as much information as possible. -->
 
 ### Expected behavior
 <!-- How should it work + proof -->
